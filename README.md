@@ -1,2 +1,3 @@
 # git-test
-First git let's go!
+First GitHub repo let's go!
+Hello Odin!
